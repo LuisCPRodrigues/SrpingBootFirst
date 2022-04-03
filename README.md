@@ -1,2 +1,2 @@
-# SrpingBootFirst
+# SpringBootFirst
 First spring boot experience
